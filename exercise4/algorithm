@@ -1,0 +1,8 @@
+START
+INPUT 3n = A, B, C
+IF A + B > C = TRIANGLE is possible
+IF A + C > B = TRIANGLE is possible
+IF B + C > A = TRIANGLE is possible
+ELSE
+TRIANGLE is not possible
+END
