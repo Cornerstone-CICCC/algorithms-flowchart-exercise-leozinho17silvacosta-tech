@@ -2,5 +2,5 @@ START
   INPUT W
   INPUT L
   A < W * L
-  PRINT "area of rectangle: ", A
+  OUTPUT "area of rectangle: ", A
 END
