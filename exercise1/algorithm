@@ -1,5 +1,5 @@
 START
   INPUT LFT 
   LCM < LFT * 30
-  PRINT "Lenght in cm: ", LCM
+  OUTPUT "Lenght in cm: ", LCM
 END
