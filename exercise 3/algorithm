@@ -1,0 +1,8 @@
+START
+  INPUT 3n > A, B, C
+  IF A > B > C = OUTPUT A
+  ELSE
+  IF B > A > C = OUTPUT B
+  ELSE
+  IF C > B > A = OUTPUT C
+END
